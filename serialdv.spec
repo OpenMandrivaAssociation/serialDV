@@ -21,6 +21,7 @@ AMBE3000 based devices in packet mode over a serial link.
 Summary:        Development files for libserialdv
 Group:          Development/Libraries/C and C++
 Requires:       %{libname} = %{EVRD}
+Provides:	%{name}-devel = %{EVRD}
 
 %description -n	%{devname}
 A library that provides an interface for audio encoding and decoding with
