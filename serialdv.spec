@@ -10,7 +10,7 @@ License:        GPL-3.0-only
 Group:          Development/Libraries/C and C++
 URL:            https://github.com/f4exb/serialDV
 #Git-Clone:     https://github.com/f4exb/serialDV.git
-Source:         https://github.com/f4exb/serialDV/archive/%{version}/%{name}-%{version}.tar.gz
+Source0:	https://github.com/f4exb/serialDV/archive/v%{version}.tar.gz
 BuildRequires:  cmake
 
 %description
