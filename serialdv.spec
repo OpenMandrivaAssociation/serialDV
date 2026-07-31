@@ -3,7 +3,7 @@
 %define devname %mklibname -d %{name}
 
 Name:           serialDV
-Version:        1.1.4
+Version:        1.1.5
 Release:        1%{?dist}
 Summary:        Library for audio de-/encoding with ABME3000 based devices
 License:        GPL-3.0-only
